@@ -1,4 +1,4 @@
-Program to Retrieve Webpage using SSL/TLS.
+#Program to Retrieve Webpage using SSL/TLS.
 
 This is a C program that retrieves a webpage from a specified URL using SSL/TLS protocol. The program prompts the user to enter the URL of the webpage to be retrieved and extracts the hostname and path from it. It then creates a TCP/IP socket, resolves the hostname to an IP address, connects to the server using the socket, and wraps the socket with SSL/TLS. Finally, it sends an HTTP GET request to the server and receives the response.
 
