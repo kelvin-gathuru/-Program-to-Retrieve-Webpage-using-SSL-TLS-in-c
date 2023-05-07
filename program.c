@@ -1,4 +1,4 @@
-//-Program-to-Retrieve-Webpage-using-SSL-TLS-in-c by kelvin gathuru
+//Program to Retrieve Webpage using SSL TLS in C by kelvin gathuru
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
